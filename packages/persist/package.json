@@ -8,7 +8,7 @@
         "url": "https://github.com/alpinejs/alpine.git",
         "directory": "packages/persist"
     },
-    "author": "Caleb Porzio",
+    "author": "Melissa Martinez",
     "license": "MIT",
     "main": "dist/module.cjs.js",
     "module": "dist/module.esm.js",
